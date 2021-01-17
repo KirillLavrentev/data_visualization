@@ -4,22 +4,7 @@ My work on visualizing some data.
 Here I use Folium and seaborn.heatmap to visualize the data. 
 
 
-![Alt text](/home/kl/Загрузки/MyCollages.jpg)
+![Alt text](https://drive.google.com/file/d/10fN2XgMI7az_M8U6nHmeAlHvVXLNk7cC/view?usp=sharing)
 
-![Test Image 1](3DTest.png)
-
-![Test Image 2](“3DTest.png”)
-
-![Test Image 3](/3DTest.png)
-
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
-
-![Test Image 5](https://…/3DTest.png)
-
-![Test Image 6](master/3DTest.png)
-
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
 
 
